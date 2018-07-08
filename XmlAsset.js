@@ -1,5 +1,4 @@
-// const { Asset } = require('parcel-bundler');
-const Asset = require('../parcel-bundler/src/Asset.js');
+const { Asset } = require('parcel-bundler');
 
 class XmlAsset extends Asset {
 
