@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-raw-xml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parcel plugin for loading the raw content of an xml file as a string",
   "main": "index.js",
   "dependencies": {
