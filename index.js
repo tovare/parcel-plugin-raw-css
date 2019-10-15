@@ -1,3 +1,3 @@
 module.exports = function (bundler) {
-  bundler.addAssetType('xml', require.resolve('./XmlAsset'));
+  bundler.addAssetType('css', require.resolve('./CssAsset'));
 };
