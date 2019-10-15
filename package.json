@@ -1,7 +1,7 @@
 {
-  "name": "parcel-plugin-raw-xml",
+  "name": "parcel-plugin-raw-css",
   "version": "1.0.1",
-  "description": "Parcel plugin for loading the raw content of an xml file as a string",
+  "description": "Parcel plugin for loading the raw content of an css file as a string",
   "main": "index.js",
   "dependencies": {
     "parcel-bundler": "^1.9.4"
@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxbeier/parcel-plugin-raw-xml.git"
+    "url": "git+https://github.com/tovare/parcel-plugin-raw-css.git"
   },
   "keywords": [
     "parcel",
     "parcel-plugin",
-    "xml"
+    "css"
   ],
-  "author": "Maximilian Beier",
+  "author": "Original auth. Maximilian Beier",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maxbeier/parcel-plugin-raw-xml/issues"
+    "url": "https://github.com/tovare/parcel-plugin-raw-css/issues"
   },
-  "homepage": "https://github.com/maxbeier/parcel-plugin-raw-xml#readme"
+  "homepage": "https://github.com/tovare/parcel-plugin-raw-cssl#readme"
 }
