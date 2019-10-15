@@ -1,6 +1,6 @@
 const { Asset } = require('parcel-bundler');
 
-class XmlAsset extends Asset {
+class CssAsset extends Asset {
 
   constructor(name, pkg, options) {
     super(name, pkg, options);
@@ -15,4 +15,4 @@ class XmlAsset extends Asset {
 
 }
 
-module.exports = XmlAsset;
+module.exports = CssAsset;
